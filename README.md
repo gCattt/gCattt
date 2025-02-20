@@ -1,14 +1,18 @@
 <!-- Monospace Font -->
 <samp>
   
-<h1 align="center">Ciao!</h1> 
+<h2>
+  hello world! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="23">
+</h2> 
 
-<div align="center">
-  
-  ![Profile View Counter](https://komarev.com/ghpvc/?username=gCattt)
-  [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giuseppecatillo/)
-  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:giuseppecatillo2003@gmail.com)](mailto:giuseppecatillo2003@gmail.com)
-</div>
+My name is **Giuseppe Catillo**.  
+I'm a Master's Student in **Computer Science**, curious about technology and thoughtful about design.<img src="https://github.com/goforbg/telegram-emoji-gifs/blob/master/think-bubble.gif" width="18">
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/giuseppecatillo/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:giuseppecatillo2003@gmail.com)
+
+
+
 
 </samp>
 
