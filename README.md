@@ -1,7 +1,7 @@
 <!-- Monospace Font -->
 <samp>
   
-# hello world! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
+# hello world! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24">
 
 My name is **Giuseppe Catillo**.  
 I'm a Master's Student in **Computer Science**, curious about technology and thoughtful about design.<img src="https://github.com/goforbg/telegram-emoji-gifs/blob/master/think-bubble.gif" width="18">
